@@ -1,6 +1,20 @@
-# 动画角色登录页面 - Vue 3 版本
+# 动画角色登录页面（非原创） - Vue 3 版本
 
 一个充满趣味的交互式登录页面，四个可爱的动画角色会用眼睛跟随你的鼠标，并根据你的操作做出不同反应。
+
+![演示动画](xw_20260310151134.gif)
+
+### 截图展示
+
+<div align="center">
+  <img src="ScreenShot_2026-03-10_150033_538.png" width="45%" />
+  <img src="ScreenShot_2026-03-10_150126_595.png" width="45%" />
+</div>
+
+<div align="center">
+  <img src="ScreenShot_2026-03-10_150139_772.png" width="45%" />
+  <img src="ScreenShot_2026-03-10_150152_276.png" width="45%" />
+</div>
 
 ## ✨ 功能特性
 
